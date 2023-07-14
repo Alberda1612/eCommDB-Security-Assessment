@@ -20,6 +20,9 @@ Welcome to the eCommDB-Security-Assessment repository! This project focuses on c
 5. Communication and Reporting.
 
 ## Background Information
+An E-commerce company stores information on a remote database server, since many of the employees work remotely from locations all around the world. Employees of the company regularly query, or request, data from the server to find potential customers. The database has been open to the public since the company's launch three years ago. As a cybersecurity professional, you recognize that keeping the database server open to the public is a serious vulnerability.
 
-   
+**__Task__**: The task is to conduct a vulnerability assessment of the e-commerce company's database server to access the current state of the database server, evaluate the server's security, identify potential security risks and vulnerabilities, and propose effective security measures to mitigate those risks.
+
+
 
